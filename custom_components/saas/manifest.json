@@ -1,6 +1,6 @@
 {
   "domain": "saas",
-  "name": "sleepd - Sleep MQTT Processor",
+  "name": "sleepd - sleep mqtt processor",
   "codeowners": ["@sudoxnym"],
   "config_flow": true,
   "dependencies": ["mqtt", "mobile_app"],
